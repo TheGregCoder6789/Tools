@@ -15,7 +15,7 @@ int main() {
     int result;
 
     // Welcome message
-    printf("Hello! Welcome to Greg's Calculator!\n");
+    printf("Hello! Welcome to My Calculator!\n");
 
     // Request the first number
     printf("Please enter your first number: ");
